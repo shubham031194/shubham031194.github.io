@@ -9,6 +9,7 @@ Machine learning provides tools to analyze, visualize, and forecast data, enabli
 - **Automation**: Allows systems to learn and improve without explicit programming, enhancing decision-making and user experiences.
 
   ![AI/ML space.](https://github.com/shubham031194/Machine-Learning/blob/main/assets/AI_space.png)
+  <img src="images/assets/AI_space.png" alt="AI/ML space." width="300">
 
 One prominent subset of machine learning is **deep learning**, which leverages **neural networks**, particularly multi-layered ones, to handle complex data and tasks.
 
@@ -52,4 +53,4 @@ Reinforcement learning has been used in game-playing AIs (such as AlphaGo), robo
 
 ---
 
-Happy Learning! 🎉
+
